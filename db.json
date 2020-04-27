@@ -1,11 +1,11 @@
 {
   "questions":[{
-    "question":"What\'s the capital of Gujarat?",
+    "question":"What is the capital of Gujarat?",
     "answers": ["Ahmedabad","Gandhinagar","Rajkot","Surat"],
     "correctAnswer": "Gandhinagar"
   },
   {
-    "question":"What\'s the currency of India?",
+    "question":"What is the currency of India?",
     "answers": ["Dollar","Rupees","Euro","Pound"],
     "correctAnswer": "Rupees"
   },
