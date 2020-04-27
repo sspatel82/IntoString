@@ -1,27 +1,27 @@
 {
   "questions":[{
-    "question":'What\'s the capital of Gujarat?',
-    "answers": ['Ahmedabad','Gandhinagar','Rajkot','Surat'],
-    "correctAnswer": 'Gandhinagar'
+    "question":"What\'s the capital of Gujarat?",
+    "answers": ["Ahmedabad","Gandhinagar","Rajkot","Surat"],
+    "correctAnswer": "Gandhinagar"
   },
   {
-    "question":'What\'s the currency of India?',
-    "answers": ['Dollar','Rupees','Euro','Pound'],
-    "correctAnswer": 'Rupees'
+    "question":"What\'s the currency of India?",
+    "answers": ["Dollar","Rupees","Euro","Pound"],
+    "correctAnswer": "Rupees"
   },
   {
-    "question":'Which is the most populated city in India?',
-    "answers": ['Ahmedabad','Mumbai','Culcatta','Hydrabad'],
-    "correctAnswer": 'Mumbai'
+    "question":"Which is the most populated city in India?",
+    "answers": ["Ahmedabad","Mumbai","Culcatta","Hydrabad"],
+    "correctAnswer": "Mumbai"
   },
   {
-    "question":'Who is the richest person of the world?',
-    "answers": ['Bill Gates','Jeff Bazos','Warren Buffet','Mukesh Ambani'],
-    "correctAnswer": 'Bill Gates'
+    "question":"Who is the richest person of the world?",
+    "answers": ["Bill Gates","Jeff Bazos","Warren Buffet","Mukesh Ambani"],
+    "correctAnswer": "Bill Gates"
   },
   {
-    "question":'Who is fastest runner in the world?',
-    "answers": ['Hussain Bolt','Sanket Patel','Kamesh Sista','P.T. Usha'],
-    "correctAnswer": 'Hussain Bolt'
+    "question":"Who is fastest runner in the world?",
+    "answers": ["Hussain Bolt","Sanket Patel","Kamesh Sista","P.T. Usha"],
+    "correctAnswer": "Hussain Bolt"
   }]
 }
